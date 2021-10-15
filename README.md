@@ -51,7 +51,7 @@ sudo reboot
 ```
 # TO DO
 
-Get it to run from a config file. More flexibility.
+Get button assignments to run from a config file. 
 
 # License 
 
