@@ -14,6 +14,10 @@ If you're running in a raspberry pi, you need to disable and mask the bluetooth 
  sudo systemctl mask bluetooth.service
 ```
 
+# Run
+```
+python3 flicKEF.py
+```
 # Run as a service
 ```
 cat <<EOF | sudo tee /etc/systemd/system/speakerflic.service
@@ -44,6 +48,10 @@ sudo systemctl enable speakerflic.service
 sudo systemctl enable speakerflic.service
 sudo reboot
 ```
+# TO DO
+
+Get it to run from a config file. More flexibility.
+
 # License 
 
 GPL 3.0
