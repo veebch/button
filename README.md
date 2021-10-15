@@ -2,7 +2,7 @@
 
 # flicKEF
 
-This script runs while flicd is running and controls a KEF LS50 wireless over the LAN rather than using an IR blaster. The reason is that the source button is annoying because you need to toggle through unused sources.
+This script runs while flicd is running and controls a KEF LS50 wireless over the LAN rather than using an IR blaster. The motivation is that the source button is annoying because you need to toggle through unused sources.
 
 # Prerequisites
 
