@@ -28,6 +28,7 @@ cd button
 ```
 
 # Run
+Edit the file flicKEF.py to contain the commands that you want to invoke, or if you're using the Kef speaker example, leave things as they are.
 To start the code that listens to a button you've already paired to flicd (documented on the [fliclib github page](https://github.com/50ButtonsEach/fliclib-linux-hci)):
 ```
 python3 flicKEF.py
