@@ -15,10 +15,9 @@ If you're running in a raspberry pi, you need to disable and mask the bluetooth 
  sudo systemctl stop bluetooth.service
  sudo systemctl mask bluetooth.service
 ```
-# Install
+# Installation
 
-First of all clone this repository and enter the directory
-```
+Clone this repository and enter the directory```
 cd ~
 git clone https://github.com/veebch/button.git
 cd button
