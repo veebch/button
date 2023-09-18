@@ -4,7 +4,7 @@
 
 A method for running a script on your linux machine using a bluetooth (flic) button. The example is for a **Kef LS50** wireless set of speakers, but can be adapted to any device that responds to commands made over your network.
  
-The script runs while flicd is running and controls a KEF LS50 wireless over the LAN rather than using an IR blaster. The motivation is that the source button is annoying because you need to toggle through unused sources.
+The script runs while flicd is running and controls a KEF LS50 wireless over the LAN rather than using an IR blaster. The motivation for this example is that the source button on the Kef Remote is annoying because you need to toggle through unused sources. /firstworldproblem
 
 # Prerequisites
 
