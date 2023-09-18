@@ -1,6 +1,6 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 
-# flicKEF
+# Button
 
 A method for sending any command to a device on your local netword using a flic button. The example is for a KEFLS50 wireless set of speakers, but can be adapted to any device that responds to commands made over your network.
  
