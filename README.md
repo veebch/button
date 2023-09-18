@@ -68,7 +68,7 @@ sudo reboot
 ```
 # To Do
 
-Get button assignments to run from a config file. 
+Place button functions into a config file to simplify the process. 
 
 # License 
 
