@@ -1,4 +1,5 @@
-"""Flic client library for python
+"""
+Flic client library for python
 
 Requires python 3.3 or higher.
 
