@@ -2,7 +2,7 @@
 
 # Button
 
-A method for sending any command to a device on your local netword using a flic button. The example is for a KEFLS50 wireless set of speakers, but can be adapted to any device that responds to commands made over your network.
+A method for sending any command to a device on your local network using a flic button. The example is for a KEFLS50 wireless set of speakers, but can be adapted to any device that responds to commands made over your network.
  
 The script runs while flicd is running and controls a KEF LS50 wireless over the LAN rather than using an IR blaster. The motivation is that the source button is annoying because you need to toggle through unused sources.
 
