@@ -3,7 +3,11 @@
 import asyncio
 import os
 from aioflic import *
+
+
 def dostuff(channel, click_type, was_queued, time_diff):
+# This is the function that can be adapted to invoke other scripts/commands
+# There are three seperate commands for Single Click, Double Click, and Hold respectively, edit them to contain whatever you find useful
     if str(click_type)=="ClickType.ButtonSingleClick":
 # Just want to toggle between our two used outputs (possibly add mute check)
         state=os.popen("/home/pi/kefctl/kefctl -s | grep Source | awk \'/Source/{print $NF}\'").read().strip('\n')
