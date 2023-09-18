@@ -63,7 +63,7 @@ sudo systemctl enable speakerflic.service
 sudo systemctl enable speakerflic.service
 sudo reboot
 ```
-# TO DO
+# To Do
 
 Get button assignments to run from a config file. 
 
