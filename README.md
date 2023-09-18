@@ -7,7 +7,7 @@ A method for invoking a script using a bluetooth button ([flic](https://flic.io/
 The example is for a **Kef LS50** wireless set of speakers, but can be adapted to any script (send an email then start a timer then set all the house lights to red then play Barry White etc etc).
 It controls the Kef LS50s over the local network rather than using an Infrared Remote. The motivation for this example is that the source button on the Kef Remote is annoying because you need to toggle through unused sources. /firstworldproblem
 
-This is a very specific use-case that led to a pretty general method, so this all might seem a bit garbled.
+This is a very specific use-case that led to a pretty general method, so for now, the instructions might seem a bit garbled. Bear with us.
 
 # Prerequisites
 
