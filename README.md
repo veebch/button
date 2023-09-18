@@ -31,6 +31,9 @@ To start the code that listens to a button you've already paired to flicd (docum
 python3 flicKEF.py
 ```
 # Run as a service
+
+Make the systemd service file by running the following in a terminal:
+
 ```
 cat <<EOF | sudo tee /etc/systemd/system/speakerflic.service
 [Unit]
