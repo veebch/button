@@ -8,8 +8,10 @@ The script runs while flicd is running and controls a pair of Kef LS50s over the
 
 # Prerequisites
 
-First of all if you're using the KEF example, clone [kefctl](https://github.com/kraih/kefctl). This is the perl code that will actually control the speaker by issuing commands over your network. Then install [fliclib](https://github.com/50ButtonsEach/fliclib-linux-hci) and start flicd as a service.
-If you're running in a raspberry pi, you need to disable and mask the bluetooth service:
+First of all if you're using the Kef speakers example, clone [kefctl](https://github.com/kraih/kefctl). This is the perl code that will actually control the speaker by issuing commands over your network. 
+
+Then install [fliclib](https://github.com/50ButtonsEach/fliclib-linux-hci) and start flicd as a service.
+NB. If you're running in a Raspberry Pi, then you need to disable and mask the bluetooth service with the following commands:
 
 ```
  sudo systemctl stop bluetooth.service
