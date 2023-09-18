@@ -15,7 +15,7 @@ If you're running in a raspberry pi, you need to disable and mask the bluetooth 
 ```
 
 # Run
-To start the code that listens to a button you've already paired to flicd (documented on the fliclib github page):
+To start the code that listens to a button you've already paired to flicd (documented on the [fliclib github page](https://github.com/50ButtonsEach/fliclib-linux-hci)):
 ```
 python3 flicKEF.py
 ```
