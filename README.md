@@ -2,7 +2,7 @@
 
 # Button
 
-A method for running a script on your linux machine using a bluetooth button ([flic](https://flic.io/shop/flic-2-three-pack)) and a linux machine (eg Raspberry Pi). The example is for a **Kef LS50** wireless set of speakers, but can be adapted to any script (send an email, start a timer, turn on a coffee machine etc etc).
+A method for invoking a script using a bluetooth button ([flic](https://flic.io/shop/flic-2-three-pack)) on a linux machine (eg Raspberry Pi). The example is for a **Kef LS50** wireless set of speakers, but can be adapted to any script (send an email, start a timer, turn on a coffee machine etc etc).
  
 The script runs while flicd is running and controls a pair of Kef LS50s over the LAN rather than using an IR blaster. The motivation for this example is that the source button on the Kef Remote is annoying because you need to toggle through unused sources. /firstworldproblem
 
