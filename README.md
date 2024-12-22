@@ -48,7 +48,7 @@ After=flicd.service
 
 
 [Service]
-ExecStart=/usr/bin/python3 -u /home/pi/fliclib-linux-hci/cli$
+ExecStart=/usr/bin/python3 flicKEF.py
 WorkingDirectory=/home/pi/fliclib-linux-hci/clientlib/python/
 StandardOutput=inherit
 StandardError=inherit
